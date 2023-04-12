@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Crunchyroll is a popular anime streaming application that offers a vast selection of anime shows, manga, and drama series. The app has a user-friendly interface that allows users to browse through its extensive catalog easily. ","photo":"https://iili.io/HvdDsGR.webp"},
+  {"title":"tips pack 2","desc":"An enormous variety of anime programs, manga, and drama series are available on the well-known anime streaming service Crunchyroll. The app's intuitive user interface makes it simple for users to browse through its sizable catalog.","photo":"https://iili.io/HvdDiCv.webp"},
+  {"title":"how to use this app 3","desc":". Users can also access Crunchyroll's community forums, where they can interact with other anime enthusiasts and discuss their favorite shows.","photo":"https://iili.io/HvdDDvt.jpg"},
+  {"title":"advance mod 4","desc":"Also, users have access to Crunchyroll's community forums, where they can communicate with other anime fans and talk about their preferred programs.","photo":"https://iili.io/HvdDtaI.jpg"},
+  {"title":"advice pack 5","desc":"Crunchyroll offers both free and premium versions of its app. The free version allows users to watch anime shows with ads, while the premium version offers ad-free viewing, early access to new episodes, and offline viewing.","photo":"https://iili.io/HvdDL4p.jpg"},
+  {"title":"tips mod 6","desc":"The app from Crunchyroll is available in both free and paid editions. The subscription version enables ad-free viewing, early access to new episodes, and offline viewing, while the free version allows users to watch anime shows with advertisements.","photo":"https://iili.io/HvdDZ3N.jpg"},
+  {"title":"how to use this app 7","desc":"The premium version also includes access to Crunchyroll's manga library and simulcasts of new anime shows.","photo":"https://iili.io/HvdDbyX.jpg"},
+  {"title":"helper pack 8","desc":"Funimation is another popular anime streaming app that specializes in English-dubbed anime shows. The app offers a wide range of anime shows, including popular titles like Dragon Ball Z, Naruto, and One Piece.","photo":"https://iili.io/HvdDyjs.jpg"}
 
    ]
  
